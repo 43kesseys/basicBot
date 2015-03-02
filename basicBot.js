@@ -1645,8 +1645,6 @@
                     'gives you an Oreo cookie with a glass of milk!',
                     'gives you a rainbow cookie made with love :heart:',
                     'gives you an old cookie that was left out in the rain, it\'s moldy.',
-                    'gives you what appears to be a chocolate chip cookie covered in semen.'
-                    'is all out of cookies! What a tease.'
                     'bakes you fresh cookies, it smells amazing.'
                 ],
                 getCookie: function () {
