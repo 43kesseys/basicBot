@@ -1641,10 +1641,13 @@
                     'gives you a fortune cookie. It reads "m808 pls"',
                     'gives you a fortune cookie. It reads "If you move your hips, you\'ll get all the ladies."',
                     'gives you a fortune cookie. It reads "I love you."',
+                    'gives you a fortune cookie. It reads "Gir\'s a slut!"'
                     'gives you a Golden Cookie. You can\'t eat it because it is made of gold. Dammit.',
                     'gives you an Oreo cookie with a glass of milk!',
                     'gives you a rainbow cookie made with love :heart:',
                     'gives you an old cookie that was left out in the rain, it\'s moldy.',
+                    'gives you what appears to be a chocolate chip cookie covered in semen.'
+                    'is all out of cookies! What a tease.'
                     'bakes you fresh cookies, it smells amazing.'
                 ],
                 getCookie: function () {
