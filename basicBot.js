@@ -1641,7 +1641,6 @@
                     'gives you a fortune cookie. It reads "m808 pls"',
                     'gives you a fortune cookie. It reads "If you move your hips, you\'ll get all the ladies."',
                     'gives you a fortune cookie. It reads "I love you."',
-                    'gives you a fortune cookie. It reads "Gir is a slut."',
                     'gives you a Golden Cookie. You can\'t eat it because it is made of gold. Dammit.',
                     'gives you an Oreo cookie with a glass of milk!',
                     'gives you a rainbow cookie made with love :heart:',
