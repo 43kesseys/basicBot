@@ -1687,7 +1687,8 @@
                     'nuzzles up to you for cuddles!',
                     'activates cuddle mode and targets you.',
                     'invades your personal space and gropes you inappropriately!',
-                    'glomps onto your side and steals a snuggle. Oof, heavy bot.'
+                    'glomps onto your side and steals a snuggle. Oof, heavy bot.',
+                    'cuddles lovingly, kissing your neck~ ;3'
                 ],
                 getCuddle: function () {
                     var c = Math.floor(Math.random() * this.cuddles.length);
