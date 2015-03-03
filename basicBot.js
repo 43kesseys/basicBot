@@ -1627,7 +1627,7 @@
                 rank: 'user',
                 type: 'startsWith',
                 cookies: ['has given you a chocolate chip cookie! :D',
-                    'has given you a soft homemade oatmeal cookie!',
+                    'has given you a soft homemade oatmeal cookie! :D',
                     'has given you a chocolate chip cookie that appears to be covered in semen.',
                     'gives you a sugar cookie. What, no frosting and sprinkles? 0/10 would not devour.',
                     'gives you a chocolate chip cookie. Oh wait, those are raisins. Bleck!',
