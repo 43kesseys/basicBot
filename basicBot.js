@@ -1679,6 +1679,48 @@
                 }
             },
 
+            cuddleCommand: {
+                command: 'cuddle',
+                rank: 'user',
+                type: 'startsWith',
+                cuddles: ['test1',
+                    'test2',
+                    'test3',
+                    'test4',
+                    'test5'
+                ],
+                getCuddle: function () {
+                    var c = Math.floor(Math.random() * this.cuddles.length);
+                    return this.cuddles[c];
+                },
+                functionality: function (chat, cmd) {
+                    if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
+                    if (!basicBot.commands.executable(this.rank, chat)) return void (0);
+                    else {
+                        var msg = chat.message;
+
+                        var space = msg.indexOf(' ');
+                        if (space === -1) {
+                            API.sendChat(basicBot.chat.givecuddle);
+                            return false;
+                        }
+                        else {
+                            var name = msg.substring(space + 2);
+                            var user = basicBot.userUtilities.lookupUserName(name);
+                            if (user === false || !user.inRoom) {
+                                return API.sendChat(subChat(basicBot.chat.nousercuddle, {name: name}));
+                            }
+                            else if (user.username === chat.un) {
+                                return API.sendChat(subChat(basicBot.chat.selfcuddle, {name: name}));
+                            }
+                            else {
+                                return API.sendChat(subChat(basicBot.chat.cuddle, {nameto: user.username, namefrom: chat.un, cuddle: this.getCuddle()}));
+                            }
+                        }
+                    }
+                }
+            },
+            
             cycleCommand: {
                 command: 'cycle',
                 rank: 'manager',
