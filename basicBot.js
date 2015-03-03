@@ -1683,11 +1683,11 @@
                 command: 'cuddle',
                 rank: 'user',
                 type: 'startsWith',
-                cuddles: ['test1',
-                    'test2',
-                    'test3',
-                    'test4',
-                    'test5'
+                cuddles: ['cuddles you as well as a roboserg can! <3',
+                    'nuzzles up to you for cuddles!',
+                    'activates cuddle mode and targets you.',
+                    'invades your personal space and gropes you inappropriately!',
+                    'glomps onto your side and steals a snuggle. Oof, heavy bot.'
                 ],
                 getCuddle: function () {
                     var c = Math.floor(Math.random() * this.cuddles.length);
