@@ -94,7 +94,7 @@
     "givecuddle": "/me gives himself a grope.",
     "nousercuddle": "/em doesn't see %%NAME%% in room and gropes himself instead. >~>",
     "selfcuddle": "/me @%%NAME%%, you're a little slut, aren't you? Trying to cuddle yourself? Go to the corner.",
-    "cuddle": "/me @%%NAMETO%%, @%%NAMEFROM$$ %%CUDDLE%%",
+    "cuddle": "/me @%%NAMETO%%, @%%NAMEFROM%% %%CUDDLE%%",
     "cycleguardtime": "/me [@%%NAME%%] The cycleguard is set to %%TIME%% minute(s).",
     "dclookuprank": "/me [@%%NAME%%] Only bouncers and above can do a lookup for others.",
     "emojilist": "/me Emoji list: %%LINK%%",
