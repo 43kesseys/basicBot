@@ -1,10 +1,10 @@
 {
 
-    "nodatafound": "No previous data found.",
-    "retrievingdata": "Retrieving previously stored data.",
-    "datarestored": "Previously stored data successfully retrieved.",
-    "greyuser": "Only bouncers and up can run a bot.",
-    "bouncer": "The bot can't move people when it's run as a bouncer.",
+    "nodatafound": "No previous data found. >:V",
+    "retrievingdata": "Retrieving previously stored data. ",
+    "datarestored": "Previously stored data successfully retrieved. <3",
+    "greyuser": "Only bouncers and up can run a bot. ;p",
+    "bouncer": "The bot can't move people when it's run as a bouncer. :V",
     "online": "/me %%BOTNAME%% v%%VERSION%% online, ayy lmao!",
 
 
@@ -13,11 +13,11 @@
     "songknown": "/me :repeat: This song has been played %%PLAYS%% time(s) in the last %%TIMETOTAL%%, last play was %%LASTTIME%% ago. :repeat:",
     "timelimit": "/me @%%NAME%%, your song is longer than %%MAXLENGTH%% minutes, you need permission to play longer songs.",
     "permissionownsong": "/me :up: @%%NAME%% has permission to play their own production!",
-    "isblacklisted": "/me This track is on the %%BLACKLIST%% blacklist! Skipping...",
+    "isblacklisted": "/me jfc, this one's on the %%BLACKLIST%% blacklist. Skipping...",
 
 
     "isopen": "/me The roulette is now open! Type !join to participate!",
-    "winnerpicked": "/me A winner has been picked! @%%NAME%% to position %%POSITION%%.",
+    "winnerpicked": "/me A winner has been picked! @%%NAME%% to position %%POSITION%%. Gratz, fag.",
 
 
     "alreadyadding": "/me User is already being added! Changed the desired position to %%POSITION%%.",

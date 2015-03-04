@@ -1644,7 +1644,7 @@
                     'is all out of cookies. What a tease.',
                     'gives you an Oreo cookie with a glass of milk!',
                     'gives you a gay rainbow cookie made with love :heart:',
-                    'gives you aan old cookie that was left out in the rain, it\'s moldy.',
+                    'gives you an old cookie that was left out in the rain, it\'s moldy.',
                     'bakes you fresh cookies, it smells amazing.'
                 ],
                 getCookie: function () {
