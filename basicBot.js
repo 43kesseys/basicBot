@@ -1638,14 +1638,14 @@
                     'gives you a fortune cookie. It reads "Go outside."',
                     'gives you a fortune cookie. It reads "Don\'t forget to eat your veggies!"',
                     'gives you a fortune cookie. It reads "Ayy lmao."',
-                    'gives you a fortune cookie. It reads "dolan pls"',
+                    'gives you a fortune cookie. It reads "I\'M THE SHIT!"',
                     'gives you a fortune cookie. It reads "If you move your hips, you\'ll get all the vixens."',
                     'gives you a fortune cookie. It reads "I love you." <3',
                     'is all out of cookies. What a tease.',
                     'gives you an Oreo cookie with a glass of milk!',
                     'gives you a gay rainbow cookie made with love :heart:',
                     'gives you an old cookie that was left out in the rain, it\'s moldy.',
-                    'bakes you fresh cookies, it smells amazing.'
+                    'bakes you fresh cookies, they smell pretty nice.'
                 ],
                 getCookie: function () {
                     var c = Math.floor(Math.random() * this.cookies.length);
@@ -1688,7 +1688,8 @@
                     'activates cuddle mode and targets you.',
                     'invades your personal space and gropes you inappropriately!',
                     'glomps onto your side and steals a snuggle. Oof, heavy bot.',
-                    'cuddles lovingly, kissing your neck~ ;3'
+                    'cuddles lovingly, kissing your neck~ ;3',
+                    'sprawls out across your lap and begs for tummy rubs.'
                 ],
                 getCuddle: function () {
                     var c = Math.floor(Math.random() * this.cuddles.length);
