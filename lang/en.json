@@ -7,8 +7,7 @@
     "bouncer": "The bot can't move people when it's run as a bouncer. :V",
     "online": "/me %%BOTNAME%% v%%VERSION%% online, ayy lmao!",
 
-
-    "welcome": "/me Welcome, %%NAME%%",
+    "welcome": "/me Welcome, %%NAME%%!",
     "welcomeback": "/me Hello again, %%NAME%%",
     "songknown": "/me :repeat: This song has been played %%PLAYS%% time(s) in the last %%TIMETOTAL%%, last play was %%LASTTIME%% ago. :repeat:",
     "timelimit": "/me @%%NAME%%, your song is longer than %%MAXLENGTH%% minutes, you need permission to play longer songs.",
@@ -65,6 +64,7 @@
     "cycleguard": "cycleguard",
     "timeguard": "timeguard",
     "chatfilter": "chatfilter",
+    "historyskip": "historyskip",
     "lockdown": "lockdown",
     "lockguard": "lockguard",
     "usercommands": "usercommands",
