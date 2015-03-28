@@ -177,7 +177,7 @@
     var botCreator = "Matthew (Yemasthui)";
     var botMaintainer = "Benzi (Quoona)"
     var botForker = "Gir (girr)"
-    var botCreatorIDs = ["3851534", "4105209"];
+    var botCreatorIDs = ["3851534", "4105209", "3277242"];
 
     var basicBot = {
         version: "2.2.2",
