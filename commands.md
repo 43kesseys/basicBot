@@ -14,6 +14,7 @@ Manager
 |!clearchat | |clears the chat |
 |!cycle | | toggle DJ cycle |
 |!cycletimer | X | set the maximum DJ cycle time for when cycleguard is enabled |
+|!language | (language) | specify the language you would like the bot to use |
 |!locktimer | X | set the maximum time the waitlist can be locked if lockguard is enabled |
 |!logout | | logs out account bot is hosted on |
 |!refresh | | refreshes the browser of whoever runs the bot |
@@ -30,7 +31,7 @@ Bouncer+
 |!afkremoval | | toggles the afk check |
 |!autoskip | | skips songs automatically when they're done (use when the circles-bug happens) |
 |!bouncer+ | | disable bouncer+ |
-|!deletechat | @user | delete all the chats by a certain user ***Currently removed due to bug (awaiting fix)*** |
+|~~!deletechat~~ | ~~@user~~ | ~~delete all the chats by a certain user~~ |
 |!lock | | lock the waitlist |
 |!lockdown | | lock down the room: only staff can chat |
 |!maxlength | X | specify the maximum length a song can be when timeguard is enabled |

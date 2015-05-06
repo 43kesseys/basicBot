@@ -63,12 +63,14 @@
     "whois": "/me [%%NAME1%%] Username: %%NAME2%%, ID: %%ID%%, Rank: %%RANK%%, Joined: %%JOINED%%, Level: %%LEVEL%%, Language: %%LANGUAGE%%, Avatar: %%AVATAR%%, Status: %%STATUS%%%%PROFILE%%",
     "toggleon": "/me [@%%NAME%%] %%FUNCTION%% enabled.",
     "toggleoff": "/me [@%%NAME%%] %%FUNCTION%% disabled.",
+    "cmddeletion": "command deletion",
+
     "afkremoval": "AFK removal",
     "afksremoved": "AFK's removed",
     "afklimit": "AFK limit",
     "autodisable": "autodisable",
     "autoskip": "autoskip",
-    "newblacklisted": "/me [@%%NAME%%] This track belongs on the %%BLACKLIST%% blacklist! [ %%AUTHOR%% - %%TITLE%% - %%MID%% ]",
+    "newblacklisted": "\/me [@%%NAME%%] This track belongs on the %%BLACKLIST%% blacklist! [ %%AUTHOR%% - %%TITLE%% - %%MID%% ]",
     "blinfo": "[@%%NAME%%] Blacklist Info - author: %%AUTHOR%%, title: %%TITLE%%, mid: %%SONGID%%",
     "blacklist": "blacklist",
     "cycleguard": "cycleguard",
@@ -83,6 +85,7 @@
     "songstats": "song statistics",
     "etarestriction": "eta restriction",
     "voteskip": "voteskip",
+<<<<<<< HEAD
     "voteskiplimit": "/me [@%%NAME%%] Voteskip limit is currently set to %%LIMIT%% mehs.",
     "voteskipexceededlimit": "/me @%%NAME%%, your song has exceeded the voteskip limit (%%LIMIT%% mehs).",
     "voteskipinvalidlimit": "/me [@%%NAME%%] Invalid voteskip limit, please try again using a number to signify the number of mehs.",
